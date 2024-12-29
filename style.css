@@ -1,0 +1,34 @@
+h1{
+    color:white;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(215, 210, 210);
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    border-style: solid;
+  }
+  .container{
+background-color: cadetblue;
+width: 400px;
+height: 200px;
+padding: 50px;
+border-radius: 20px;
+position: relative;
+left: 380px;
+top: 150px;
+  }
+  #result{
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-style: italic;
+    color: rgb(255, 240, 240);
+  }
